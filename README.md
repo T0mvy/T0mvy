@@ -43,9 +43,5 @@ When I'm not dealing with partial differential equations or running Monte Carlo 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/T0mvy/T0mvy/snake-output/snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
   <img src="https://count.getloli.com/@:T0mvy?theme=booru-vp&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
