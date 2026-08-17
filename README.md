@@ -29,7 +29,7 @@ I am a Physics undergraduate at **UFMG** passionate about computational modeling
 *   📄 **Microreactor Analysis:** Scientific research on the implementation of microreactors in the Brazilian energy matrix.
 
 ### 🏎️ Fun Facts
-When I'm not dealing with partial differential equations or running Monte Carlo simulations, you'll find me watching Formula 1 and cheering for **Scuderia Ferrari**! 🏁
+When I'm not dealing with partial differential equations or running Monte Carlo simulations, you'll find me watching Formula 1 and cheering for **Scuderia Ferrari**, or rewatching **Neon Genesis Evangelion** for the thousandth time! 
 
 ### 📫 How to reach me
 <div align="center">
