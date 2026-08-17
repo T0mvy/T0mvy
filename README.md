@@ -18,7 +18,7 @@ I am a Physics undergraduate at **UFMG** passionate about computational modeling
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/MCNP-Monte_Carlo-blue?style=for-the-badge" height="30" alt="mcnp badge" />
+  <img src="https://img.shields.io/badge/OPENMC-Monte_Carlo-blue?style=for-the-badge" height="30" alt="openmc badge" />
 </div>
 
 <br>
