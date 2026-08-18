@@ -26,7 +26,6 @@ I am a Physics undergraduate at **UFMG** passionate about computational modeling
 ### 🚀 Featured Projects
 *   📡 **Satellite Tracker:** Graphical interface in Python using the Skyfield library for real-time ephemeris calculation.
 *   ☢️ **Monte Carlo Academic Guide:** Open-source repository with mathematical and geometric input file models and templates to help beginners. *(Coming soon)*
-*   📄 **Microreactor Analysis:** Scientific research on the implementation of microreactors in the Brazilian energy matrix.
 
 ### 🏎️ Fun Facts
 When I'm not dealing with partial differential equations or running Monte Carlo simulations, you'll find me watching Formula 1 and cheering for **Scuderia Ferrari**, or rewatching **Neon Genesis Evangelion** for the thousandth time! 
